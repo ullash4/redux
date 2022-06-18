@@ -1,6 +1,7 @@
 // Define constants
 const INCREAMENT = "INCREAMENT";
 const DECREAMENT = "DECREAMENT";
+const RESET = "RESET";
 
 // State
 const initialCounterState = {
